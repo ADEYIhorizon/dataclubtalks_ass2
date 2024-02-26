@@ -12,4 +12,4 @@ To install the necessary dependencies, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/dataclubtalks_ass3.git
-cd dataclubtalks_ass3
+cd Homework3
